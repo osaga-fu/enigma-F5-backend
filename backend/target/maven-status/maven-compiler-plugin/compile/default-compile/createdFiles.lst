@@ -1,0 +1,6 @@
+com\enigmaf5\backend\controllers\QuestionController.class
+com\enigmaf5\backend\persistence\QuestionRepository.class
+com\enigmaf5\backend\persistence\Question.class
+com\enigmaf5\backend\controllers\QuestionResponse.class
+com\enigmaf5\backend\services\QuestionService.class
+com\enigmaf5\backend\BackendApplication.class
